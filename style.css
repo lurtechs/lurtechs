@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+    color: azure;
+    font-family: 'Lora', serif;
+    word-spacing: 5px;
+}
+
+.hero {
+    margin-top: 2%;
+    padding-top: 10%;
+
+}
+
+#ftco-navbar {
+    margin-bottom: 2%;
+    background-color: black;
+}
+
+.backs {
+    width: 80%;
+}
+
+#home-section {
+    background-image: url(/carosel_img/main.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+
+#resume-section{
+    background-image: url(/carosel_img/way2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.one-third{
+    margin-left: 130px;
+}
+
+.progress-bar, .btn{
+    background-color:#e87a7a;
+    color: black;
+}
+
+
+.ftco-section{
+    margin-top: 5%;
+    
+}
+
+
+/* Calculator */
+
+.wrapper  {
+	width: 400px;
+	position: absolute;
+
+	
+	
+	background: #e87a7a;
+	padding: 50px;
+	color: rgb(2, 2, 2);
+	text-align: center;
+	border-radius: 45px;
+}
+
+input[type="radio"] {
+	width: 20px;
+	height: 20px;
+}
+
+.pad{
+    width: 600px;
+    height: 300px;
+	margin-top: -6%;
+border-radius: 21px;
+	color: black;
+	
+	background: #e87a7a;
+    margin-left: 50%;
+}
+
+.nutri{
+    width: 50%;
+    margin-top: 3%;
+}
